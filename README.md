@@ -1,6 +1,4 @@
 # RSA-example
-RSA with example in java
-
 1. 개인+공개키 부여
 2. 아이디+비밀번호 RSA로 암호화
 3. 복호화 (후 redirect 하면)
