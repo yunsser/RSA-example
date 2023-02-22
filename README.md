@@ -1,4 +1,6 @@
 # RSA-example
+
+![image](https://user-images.githubusercontent.com/102286605/220790490-af81204d-5115-4011-ba2d-8c098534d52d.png)
 1. 개인+공개키 부여
 2. 아이디+비밀번호 RSA로 암호화
 3. 복호화 (후 redirect 하면)
