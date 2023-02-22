@@ -1,0 +1,46 @@
+.login_all {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+}
+
+.login_menu {
+	text-align: center;
+	margin-bottom: 12%;
+}
+
+.id_inp {
+	margin-left: 18px;
+	width: 86%;
+	text-align: center;
+}
+
+.pw_inp {
+	margin-left: 9px;
+	width: 86%;
+	text-align: center;
+}
+
+.btn-secondary {
+	width: 100%;
+	margin-top: 3px;
+	margin-bottom: 1px;
+}
+
+.user_bt {
+	margin-right: 5px;
+}
+
+.user_bt>button {
+	background: none;
+	border: none;
+}
+
+.user_bt>button:hover {
+	color: #8d8d8d;
+}
+
+.user_bt>button:active {
+	color: #4e4e4e;
+}
